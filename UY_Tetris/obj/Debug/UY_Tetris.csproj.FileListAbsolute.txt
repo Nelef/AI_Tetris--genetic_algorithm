@@ -1,0 +1,61 @@
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe.config
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.pdb
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csprojAssemblyReference.cache
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\App.g.cs
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.cache
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.lref
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.baml
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.g.resources
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.Properties.Resources.resources
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csproj.GenerateResource.cache
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.exe
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.pdb
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.g.cs
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.baml
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.g.cs
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.baml
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.g.cs
+C:\Users\Nelef\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.baml
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe.config
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.pdb
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csprojAssemblyReference.cache
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.g.cs
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.g.cs
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.g.cs
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.g.cs
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\App.g.cs
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.cache
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.lref
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.baml
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.baml
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.baml
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.baml
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.g.resources
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.Properties.Resources.resources
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csproj.GenerateResource.cache
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.exe
+C:\Users\imone\OneDrive\repos\2학년 2학기\소프트분석\레벨3\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.pdb
+D:\바탕화면\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe.config
+D:\바탕화면\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.exe
+D:\바탕화면\UY_Tetris\UY_Tetris\bin\Debug\UY_Tetris.pdb
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csprojAssemblyReference.cache
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.g.cs
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.g.cs
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.g.cs
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.g.cs
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\App.g.cs
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.cache
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris_MarkupCompile.lref
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\GAME_PAGE.baml
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\MainWindow.baml
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\Main_Menu.baml
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\Start_Menu.baml
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.g.resources
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.Properties.Resources.resources
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csproj.GenerateResource.cache
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.csproj.CoreCompileInputs.cache
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.exe
+D:\바탕화면\UY_Tetris\UY_Tetris\obj\Debug\UY_Tetris.pdb
