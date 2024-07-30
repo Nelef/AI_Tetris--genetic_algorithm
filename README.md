@@ -1,3 +1,7 @@
+## 미리보기
+![img_2_2-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/5bf39847-59dd-4dac-992d-0e4078d46527)
+
+
 # AI_Tetris--genetic_algorithm
 유전 알고리즘 테트리스
 다운로드 : [링크](https://kumohackr-my.sharepoint.com/personal/imoneleft_kumoh_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fimoneleft%5Fkumoh%5Fac%5Fkr%2FDocuments%2F%ED%95%99%EA%B5%90%2F2%ED%95%99%EB%85%84%2F2%ED%95%99%EA%B8%B0%2F%EC%86%8C%ED%94%84%ED%8A%B8%EB%B6%84%EC%84%9D%2F%EB%A0%88%EB%B2%A83%2F%EC%A0%9C%EC%B6%9C%EC%9A%A9%2F%EC%A0%9C%EC%B6%9C%EC%9A%A9%2Ezip&parent=%2Fpersonal%2Fimoneleft%5Fkumoh%5Fac%5Fkr%2FDocuments%2F%ED%95%99%EA%B5%90%2F2%ED%95%99%EB%85%84%2F2%ED%95%99%EA%B8%B0%2F%EC%86%8C%ED%94%84%ED%8A%B8%EB%B6%84%EC%84%9D%2F%EB%A0%88%EB%B2%A83%2F%EC%A0%9C%EC%B6%9C%EC%9A%A9&ga=1)
